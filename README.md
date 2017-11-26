@@ -1,5 +1,4 @@
 # Memory-Game
-Memory Game
 
 Are you ready to test your memory?
 This memory game will test your ability to recall placement of cards from your short term memory
